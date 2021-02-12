@@ -65,5 +65,5 @@ const getBird = (request, response) => {
 };
 
 module.exports = {
-  getParty, getBling, getBird
-}
+  getParty, getBling, getBird,
+};
